@@ -1,0 +1,2 @@
+# 1) Path to built Marabou, 2) network file, 3) property file
+/Users/cstrong/Desktop/Stanford/Research/Reluplex/Marabou/build/Marabou /Users/cstrong/Desktop/Stanford/Research/NeuralVerificationExamples/Networks/AutoTaxi/AutoTaxi_32Relus_200Epochs_OneOutput.nnet /Users/cstrong/Desktop/Stanford/Research/NeuralVerificationExamples/Properties/autotaxi_property_1.txt 
